@@ -1,0 +1,7 @@
+{
+	"name": "ulb",
+	"description": "Mod by @iGUHz.\n\nPsych Engine by DUST SANS.\n\nAndroid Port by Hadrian767.",
+	"restart":false,
+	"runsGlobally": false,
+	"color": [170, 0, 255]
+}
